@@ -1,2 +1,2 @@
-# Machine-Learning-Modeling-with-Linear-Regression
+# Simplistic Approach to Machine-Learning-Modeling-with-Linear-Regression
 A simplistic approach to machine learning modeling with simple and multiple linear regressions.
