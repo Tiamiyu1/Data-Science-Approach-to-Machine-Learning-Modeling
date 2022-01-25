@@ -1,18 +1,28 @@
 # Data Science Approach to Machine-Learning-Modeling-with-Linear-Regression
+
 A simplistic approach to machine learning modeling with simple and multiple linear regressions.
 
+# Table of contents
 
 ## Part 1
+
 [Part 1 post on medium](https://tiamiyu.medium.com/simplistic-approach-to-machine-learning-modeling-in-data-science-part-1-f2a97987d0f0)
-# Table of contents
-1.0 Import necessary libraries
-2.0 Read the csv file
-3.0 Data Description
-3.1 df.info()
-3.2 df.describe()
-3.3 df.columns
-3.4 df.shape
-4.0 Data Cleaning and preprocessing
+
+### 1.0 Import necessary libraries
+
+### 2.0 Read the csv file
+
+### 3.0 Data Description
+    3.1 df.info()
+    
+    3.2 df.describe()
+    
+    3.3 df.columns
+    
+    3.4 df.shape
+    
+### 4.0 Data Cleaning and preprocessing
+
 4.1 Missing Values
 4.2 Check for duplicate entries
 4.3 Data type conversion
