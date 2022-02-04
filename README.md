@@ -36,7 +36,7 @@ A simplistic approach to machine learning modeling with simple and multiple line
     *  Pairplot to show the relation between all numerical variables
 
 ## Part 2
-**[Check the writeup here for part 2]**
+**[Check the writeup here for part 2](https://tiamiyu.medium.com/a-simplistic-approach-to-machine-learning-modeling-in-data-science-part-2-bff913a5bb72)**
 - 7.0 Simple Linear Regression/Multiple Linear Regresion
     * Feature extraction/engineeringFeature Selection
     * Splitting into training and test sets
